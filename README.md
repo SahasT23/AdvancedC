@@ -191,3 +191,7 @@ mentation.
 ∗ Linux kernel: process scheduling, memory management, and VFS.
 ∗ xv6: a teaching OS for understanding Unix-like systems in C.
 ∗ RTOS concepts: task scheduling and interrupt handling.
+
+
+-- Might need to remove Linux kernel and security stuff. Keep to OS levels. 
+-- Will not spend too much time on this, as I will be mostly working in C++
