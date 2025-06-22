@@ -1,0 +1,2 @@
+Add all of the relevant examples from intro.md
+Create folders with detailed docs/comments
