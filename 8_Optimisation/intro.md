@@ -1,9 +1,17 @@
-Module 8: Performance Optimization
+Module 8: Performance Optimisation
+
 • Topics:
+
 – Code profiling with gprof and hardware counters.
-– Loop optimization: unrolling, vectorization, and loop fusion.
-– Cache optimization: data locality and alignment.
+
+– Loop optimisation: unrolling, vectorisation, and loop fusion.
+
+– Cache optimisation: data locality and alignment.
+
 – Function inlining and dead code elimination.
-– Compiler-assisted optimizations: -ffast-math, -funroll-loops.
+
+– Compiler-assisted optimisations: -ffast-math, -funroll-loops.
+
 – Power-aware programming for battery-powered systems.
+
 – Trade-offs between code size, speed, and resource usage.
